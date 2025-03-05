@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrMuhammadUsman obtained my PhD in Mathematics from Xi'an Jiaotong Univsersity, China.
+- 👋 Hi, I’m @DrMuhammadUsman
 ## Personal Information
 
 - **Name:** Muhammad Usman
@@ -7,8 +7,6 @@
 - **Address:** Tehsil Gujar Khan, District Rawalpindi, Pakistan
 - **Phone:** +923445527853
 - **Email:** [muhammadusman@stu.xjtu.edu.cn](mailto:muhammadusman@stu.xjtu.edu.cn); [sheikh.babu88@gmail.com](mailto:sheikh.babu88@gmail.com)
-
-![Profile Picture](pics/USMAN.jpg)
 
 ## Research Network
 
